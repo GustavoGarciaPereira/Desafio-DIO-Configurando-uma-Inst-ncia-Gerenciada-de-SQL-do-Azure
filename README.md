@@ -1,0 +1,1 @@
+# Desafio-DIO-Configurando-uma-Inst-ncia-Gerenciada-de-SQL-do-Azure
