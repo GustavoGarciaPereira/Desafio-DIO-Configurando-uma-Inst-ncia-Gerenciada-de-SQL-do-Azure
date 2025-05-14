@@ -88,22 +88,6 @@ Nesta seção, compartilhe suas percepções, desafios encontrados e como os sup
 
 ---
 
-## Recursos Úteis
-
-Liste aqui os links que foram úteis para você, incluindo os fornecidos no desafio e quaisquer outros que você tenha encontrado.
-
-- **Documentações Oficiais:**
-  - [Início Rápido: criar Instância Gerenciada de SQL do Azure - Microsoft Learning](URL_DO_ARTIGO_MICROSOFT)
-- **Materiais Complementares sobre GitHub:**
-  - [GitHub Quick Start](URL_GITHUB_QUICK_START)
-  - [GitBook: Formação GitHub Certification](URL_GITBOOK)
-  - [Documentação do GitHub](URL_DOC_GITHUB)
-  - [GitHub Markdown](URL_MARKDOWN_GITHUB)
-- **Outros Recursos:**
-  - (Adicione aqui links para vídeos, blogs, ou outras documentações que você consultou).
-
----
-
 ## Conclusão
 
 Breve resumo do que foi alcançado e a importância do aprendizado.
