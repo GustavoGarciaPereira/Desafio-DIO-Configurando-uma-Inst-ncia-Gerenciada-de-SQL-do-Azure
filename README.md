@@ -71,22 +71,6 @@ Descreva aqui cada etapa do processo. Seja o mais detalhado possível.
    - Como obter a string de conexão.
    - Pontos importantes sobre a conectividade (ex: necessidade de estar na mesma VNet ou ter um endpoint público configurado e regras de NSG).
 
----
-
-## Anotações e Dicas Pessoais
-
-Nesta seção, compartilhe suas percepções, desafios encontrados e como os superou.
-
-- **Desafios Encontrados:**
-  - (Ex: Dificuldade em configurar a VNet, entender algum parâmetro específico, tempo de provisionamento, etc.)
-- **Soluções e Aprendizados:**
-  - (Como você resolveu os desafios, o que aprendeu no processo.)
-- **Dicas Importantes:**
-  - (Ex: "Sempre verifique os pré-requisitos de rede antes de iniciar.", "A documentação oficial foi crucial para entender X.")
-- **Pontos de Atenção:**
-  - (Ex: Custos associados, implicações de segurança de certas configurações.)
-
----
 
 ## Conclusão
 
