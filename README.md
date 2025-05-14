@@ -107,9 +107,3 @@ Liste aqui os links que foram úteis para você, incluindo os fornecidos no desa
 ## Conclusão
 
 Breve resumo do que foi alcançado e a importância do aprendizado.
-
----
-
-## Autor
-
-[Seu Nome](Link_para_seu_perfil_GitHub_ou_LinkedIn)
